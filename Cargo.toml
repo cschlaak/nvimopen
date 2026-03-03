@@ -1,0 +1,15 @@
+[package]
+name = "nvimopen"
+version = "0.1.0"
+authors = ["Christof Schlaak"]
+edition = "2024"
+license = "MIT"
+description = "open files from your file manager in a new neovim tab instead of a new window"
+repository = "https://github.com/cschlaak/nvimopen"
+keywords = ["neovim", "open", "tab", "explorer", "filemanager", "server"]
+
+[build-dependencies]
+winresource = "0.1.30"
+
+[dependencies]
+regex = "1"
