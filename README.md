@@ -40,9 +40,9 @@ Of course, this tool can also be used on Linux.
 
 - open file properties and select default application (nvimopen.exe) under "Opens with"
 
-<img src="/images/explorer-file-properties.png" alt="explorer file properties" width="200"/>
+  <img src="/images/explorer-file-properties.png" alt="explorer file properties" width="350"/>
 
 - your explorer will now show the neovim icon on files that are opened with neovim:
 
-<img src="/images/explorer-files-preview.png" alt="explorer file properties" width="200"/>
+  <img src="/images/explorer-files-preview.png" alt="explorer file properties" width="500"/>
 
