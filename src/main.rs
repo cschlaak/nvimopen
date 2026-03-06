@@ -34,7 +34,7 @@ fn abs_path(p: &str) -> String {
 }
 
 pub fn init_command(program: &str) -> Command {
-	let mut cmd = Command::new(program);
+	let cmd = Command::new(program);
 	#[cfg(windows)]
 	{
 		use std::os::windows::process::CommandExt;
