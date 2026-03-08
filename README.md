@@ -42,7 +42,7 @@ Of course, this tool can also be used on Linux.
 
   <img src="/images/explorer-file-properties.png" alt="explorer file properties" width="350"/>
 
-- your explorer will now show the neovim icon on files that are opened with neovim:
+- your explorer will now show the corresponding icon on files that are opened with nvimopen, and thus in a new tab of your running neovim instance:
 
   <img src="/images/explorer-files-preview.png" alt="explorer file properties" width="500"/>
 
